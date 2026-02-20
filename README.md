@@ -1,7 +1,6 @@
 
   # Portfolio Wireframe Layout
 
-  This is a code bundle for Portfolio Wireframe Layout. The original project is available at https://www.figma.com/design/Sv8luIDftE7Kmkkfd6xs9n/Portfolio-Wireframe-Layout.
 
   ## Running the code
 
